@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "392541813110",
+    "project_id": "plantas-7d6cd",
+    "storage_bucket": "plantas-7d6cd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392541813110:android:54ff4574ac2747148ae257",
+        "android_client_info": {
+          "package_name": "com.example.plantas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbYNajkCrj4wvnM9pGVgD0kTwwCOwkQTc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
